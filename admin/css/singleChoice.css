@@ -1,0 +1,25 @@
+/*自定义*/
+.upload_choose {
+  padding: 1em;
+  overflow: hidden;
+}
+.clearfix:after{
+  content:".";       
+  display:block;       
+  height:0;       
+  clear:both;       
+  visibility:hidden;       
+
+}
+.singleChoice-item {
+    padding: 10px 0;
+}
+.singleChoice-item .layui-form-label{
+    width: 20px;
+    padding-left:0px;
+    
+}
+/*按钮样式*/
+.singleChoice-item button{
+  margin-top:3px;
+}

@@ -1,0 +1,14 @@
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+}
+.navborder{
+    border-bottom: 1px solid #eee;
+    
+}
+.container{
+    width: 1700px;
+}
+.containe .caption{
+    text-align: center;
+}
